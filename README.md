@@ -2,6 +2,24 @@
 
 
 
+## 01.13 ~ 19
+
+- 전체적인 Spring MVC의 동작 흐름
+
+- HTTP 웹서버
+
+  :page_facing_up: https://github.com/woowacourse/jwp-was
+
+  :page_facing_up: ​https://edu.nextstep.camp/c/4YUvqn9V/
+
+  - 동작원리
+  - 실제로 구현할만 한지
+  - 예제
+
+<br>
+
+
+
 ### 배경
 
 :pushpin: java web framework를 직접 개발해봄으로써​ Spring을 알자
@@ -66,20 +84,4 @@
   :page_facing_up: https://github.com/woowacourse/jwp-was
 
 
-
-
-
-## 01.13 ~ 19
-
-- 전체적인 Spring MVC의 동작 흐름
-
-- HTTP 웹서버
-
-  :page_facing_up: https://github.com/woowacourse/jwp-was
-
-  :page_facing_up: ​https://edu.nextstep.camp/c/4YUvqn9V/
-
-  - 동작원리
-  - 실제로 구현할만 한지
-  - 예제
 
